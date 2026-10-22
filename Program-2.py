@@ -1,3 +1,7 @@
+#2. Implement Breadth First Search (for Water Jug problem).
+#Name : Nimavat Harita J.
+#Enrollment No: 92600584017 
+
 #capacities of teo jug
 CAP_A=4
 CAP_B=3
