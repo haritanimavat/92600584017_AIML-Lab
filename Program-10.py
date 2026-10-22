@@ -1,3 +1,7 @@
+#10. Develop any Rule based system for an application of your choice.
+#Name : Nimavat Harita J.
+#Enrollmrnt No: 92600584017
+
 print("==============================")
 print("career guidence system")
 print("==============================")
