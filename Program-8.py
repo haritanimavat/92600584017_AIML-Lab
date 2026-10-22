@@ -1,3 +1,7 @@
+#8. Write a program to solve N-Queens problem.
+#Name : Nimavat Harita J.
+#Enrollment No: 92600584017 
+
 # no two queens can be in the same raw
 #no two queens can be in the column
 #no two queens can be on the same diagonal
