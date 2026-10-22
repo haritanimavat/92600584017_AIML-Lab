@@ -1,3 +1,7 @@
+#1. Implement Breadth First Search (for 8 puzzle problem).
+#Name : Nimavat Harita J.
+#Enrollment No: 92600584017 
+
 #goal state
 goal = (1, 2, 3,
                4, 5, 6,
