@@ -1,3 +1,7 @@
+#4. Implement Depth First Search (for Water Jug problem).
+#Name : Nimavat Harita J.
+#Enrollment No: 92600584017 
+
 #capacities of two jud
 CAP_A=4
 CAP_B=3
