@@ -1,4 +1,6 @@
 #11. Develop an Expert system for medical diagnosis.
+#Name : Nimavat Harita J.
+#Enrollment No. : 92600584017
 print('--------------Expert System------------------')
 
 print('Answer the following question in yes or no.')
